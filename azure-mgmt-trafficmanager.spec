@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-trafficmanager
 Version  : 0.51.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/14/98/6fb3bc67bb862b7bac2ea43108aa1648f72c8fa63de22ab1e58278224c43/azure-mgmt-trafficmanager-0.51.0.zip
 Source0  : https://files.pythonhosted.org/packages/14/98/6fb3bc67bb862b7bac2ea43108aa1648f72c8fa63de22ab1e58278224c43/azure-mgmt-trafficmanager-0.51.0.zip
 Summary  : Microsoft Azure Traffic Manager Client Library for Python
